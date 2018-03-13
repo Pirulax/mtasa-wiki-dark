@@ -1,0 +1,30 @@
+#mw-content-text, #firstHeading, #p-cactions{
+    background-color: #101010 !important;
+}
+#column-content, li.interlanguage-link, form#searchform {
+    background-color: #272727 !important;
+}
+/*Text colors*/
+#firstHeading, p, h1, h2, h3, h4, h5, b, li {
+    color: #DCDCDC !important;
+}
+
+.toctext{
+    color: #0c3c88; 
+}
+
+a {
+    color: #7c7c7c !important;    
+}
+
+#contentSub {
+    background-color: #252525 !important;
+}
+
+.toc {
+    background: transparent !important;
+    border-color: #444444 !important;
+    border-style: solid !important;
+    display: block !important;
+    max-width: 300px !important;
+}
